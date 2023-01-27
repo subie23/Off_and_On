@@ -12,7 +12,7 @@ Click on this to view the application → [![Heroku App Status](https://img.shie
 - [Usage](#usage)
 - [Contact](#contact)
 
-## Walkthrough-Video
+## Walkthrough Video
 
 ## Technologies Used
 

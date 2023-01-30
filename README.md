@@ -7,6 +7,8 @@ https://drive.google.com/file/d/1aZRkh_GSJmPR3Z6hXVeekwtXDgURb791/view
 ### Deployed Application
 Click on this to view the application → [![Heroku App Status](https://img.shields.io/website?label=Heroku&logo=heroku&url=https%3A%2F%2Foff-and-on.herokuapp.com)](https://off-and-on.herokuapp.com)
 
+Here is the URL: https://off-and-on.herokuapp.com/
+
 ### Table of Contents
 - [Description](#description)
   - [Walkthrough Video](#walkthrough-video)
